@@ -1,5 +1,11 @@
+body {
+  background-color: black;
+  color: wheat;
+}
+
 .App {
   text-align: center;
+  color: white;
 }
 
 .App-logo {
@@ -32,6 +38,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
